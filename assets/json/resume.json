@@ -4,9 +4,9 @@
     "label": "Computer Scientist",
     "image": "",
     "email": "robertsonmarc@myocu.oak.edu",
-    "phone": "(912) 123-4567",
+    "phone": "(815) 295-2448",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Undergradute senior, residing and pursuing a degree in Computer Science at Oakland City University. Passionate about software development, machine learning, and physical computing. Eager to apply my skills and knowledge in real-world projects and contribute to innovative solutions.",
     "location": {
       "address": "720 W Sherman St",
       "postalCode": "IN 47660",
@@ -24,60 +24,60 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Oakland City University",
+      "name": "Institute for Technology, Oakland City University",
       "position": "Student Worker",
       "url": "https://example.com",
       "startDate": "2024-09-01",
-      "endDate": "2026-05-01",
+      "endDate": "Present",
       "summary": "Troubleshooting employee issues, while providing support for the department. In addition, keeping the systems updated and running smoothly.",
       "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Midwest Hooligans Football Club",
+      "location": "Evansville, Indiana",
+      "position": "Strength and Conditioning Coach",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2016-01-31",
+      "endDate": "Present",
+      "summary": "Lead strength and conditioning coach for the Midwest Hooligans Football Club. Very committed to improving the athletic performance of all players through tailored training programs and motivational coaching.",
+      "highlights": ["Awarded 'FIT Champ' award by the Hooligans for quality Fit standards set for players."]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Oakland City University, Oakland City, Indiana",
+      "location": "Evansville, Indiana",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2024-08-02",
+      "endDate": "2026-05-02",
+      "GPA": "3.93",
+      "courses": ["Minor in Creative Technology"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "Presidents List",
       "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "awarder": "Director of Oakland City University",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "The President's List is relative to what GPA you acquired and is expected to have a GPA of 3.8 and above. For four semesters I have been awarded this accolade.'"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Introduction to GIT",
+      "date": "2026-01-20",
+      "issuer": "Datacamp",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
+      "name": "Intermediate GIT",
+      "date": "2026-01-13",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
@@ -189,12 +189,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Charity Navigator",
+      "summary": "My project's goal is to link local charities with bigger and national charities. In efforts to help raise awareness and funds for local causes.",
+      "highlights": ["JavaScript", "HTML", "CSS"],
+      "startDate": "2025-1-15",
+      "endDate": "2025-01-31",
+      "url": "https://triniboii868.github.io/final-project-triniboiii868/"
     }
   ]
 }
