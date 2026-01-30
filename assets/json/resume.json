@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Institute for Technology, Oakland City University",
-      "position": "Student Worker",
+      "position": "IT Help Desk Assistant",
       "url": "https://example.com",
       "startDate": "2024-09-01",
       "endDate": "Present",
@@ -38,7 +38,7 @@
       "organization": "Midwest Hooligans Football Club",
       "location": "Evansville, Indiana",
       "position": "Strength and Conditioning Coach",
-      "url": "https://example.com",
+      "url": "https://www.mwhooligans.com/",
       "startDate": "2016-01-31",
       "endDate": "Present",
       "summary": "Lead strength and conditioning coach for the Midwest Hooligans Football Club. Very committed to improving the athletic performance of all players through tailored training programs and motivational coaching.",
@@ -51,7 +51,7 @@
       "location": "Evansville, Indiana",
       "url": "https://www.uzh.ch/",
       "area": "Computer Science",
-      "studyType": "BSc",
+      "studyType": "Bachelors of Science",
       "startDate": "2024-08-02",
       "endDate": "2026-05-02",
       "GPA": "3.93",
@@ -61,7 +61,7 @@
   "awards": [
     {
       "title": "Presidents List",
-      "date": "1921-11-01",
+      "date": "2025-11-01",
       "awarder": "Director of Oakland City University",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The President's List is relative to what GPA you acquired and is expected to have a GPA of 3.8 and above. For four semesters I have been awarded this accolade.'"
@@ -72,43 +72,29 @@
       "name": "Introduction to GIT",
       "date": "2026-01-20",
       "issuer": "Datacamp",
-      "url": "https://example.com",
+      "url": "https://app.datacamp.com/learn/courses/introduction-to-git?cf-exp=comm--ai-native-cdp-layout%3Aon",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Intermediate GIT",
       "date": "2026-01-13",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "issuer": "Datacamp",
+      "url": "https://app.datacamp.com/learn/courses/intermediate-git?cf-exp=comm--ai-native-cdp-layout%3Aon",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Advanced GIT",
+      "date": "2026-01-30",
+      "issuer": "Datacamp",
+      "url": "https://app.datacamp.com/learn/courses/advanced-git?cf-exp=comm--ai-native-cdp-layout%3Aon",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Responsible AI with GitHub Copilot",
+      "date": "2026-01-30",
+      "issuer": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/",
       "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -136,53 +122,53 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "My skilset includes",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "JavaScript",
+        "Python",
+        "C",
+        "HTML",
+        "CSS",
+        "Git"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Spanish",
       "fluency": "Fluent",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Areas of Interest",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Software Development",
+        "Cloud Computing",
+        "Cybersecurity",
+        "Algorithms",
+        "Machine Learning",
+        "Physical Computing"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Zack Wilson",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Adam Price",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
