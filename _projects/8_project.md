@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: My First Website
+description: This is my first experience with HTML and CSS in one of my web development introduction classes. 
 img: assets/img/9.jpg
 importance: 2
 category: work

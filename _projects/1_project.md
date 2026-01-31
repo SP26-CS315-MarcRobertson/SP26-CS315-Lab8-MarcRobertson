@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: HelpHub Charity Navigator
+description: This is an HTML website which allows local charities to connect with national chartities around the United States. This helps create a better ecosystem for small charities to get involved and broaden the charity communities.
+img: assets/img/helphub.jpg
 importance: 1
 category: work
 related_publications: true

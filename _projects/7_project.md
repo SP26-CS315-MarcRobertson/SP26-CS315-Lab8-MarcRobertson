@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Raspberry Pi Traffic Light "Robot"
+description: Raspberry Pi 4 and a combination of other devices with the integration of python code used to build and mimic a European traffic light. Uses python code to take inputs, and send responses based on each scenario. 
 img: assets/img/4.jpg
 importance: 1
 category: work

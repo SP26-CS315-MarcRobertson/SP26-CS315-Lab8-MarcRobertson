@@ -47,7 +47,7 @@
   ],
   "education": [
     {
-      "institution": "Oakland City University, Oakland City, Indiana",
+      "institution": "Oakland City University",
       "location": "Evansville, Indiana",
       "url": "https://www.uzh.ch/",
       "area": "Computer Science",
@@ -56,6 +56,17 @@
       "endDate": "2026-05-02",
       "GPA": "3.93",
       "courses": ["Minor in Creative Technology"]
+    },
+    {
+      "institution": "Kankakee Community College",
+      "location": "Kankakee, Illinois",
+      "url": "https://www.uzh.ch/",
+      "area": "General Studies",
+      "studyType": "Associates of Science",
+      "startDate": "2022-08-19",
+      "endDate": "2024-05-02",
+      "GPA": "3.85",
+      "courses": []
     }
   ],
   "awards": [
@@ -64,7 +75,7 @@
       "date": "2025-11-01",
       "awarder": "Director of Oakland City University",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The President's List is relative to what GPA you acquired and is expected to have a GPA of 3.8 and above. For four semesters I have been awarded this accolade.'"
+      "summary": "The President's List is relative to what GPA you acquired and is expected to have a GPA of 3.8 and above. For four semesters I have been awarded this accolade."
     }
   ],
   "certificates": [
@@ -97,7 +108,7 @@
       "icon": "fa-solid fa-hashtag"
     }
   ],
-  "publications": [
+  /* "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -120,6 +131,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
+  */
   "skills": [
     {
       "name": "My skilset includes",
