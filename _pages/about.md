@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>"I can do all things through Christ who strengthens me" - Philippians 4:13 
 
 profile:
   align: right
