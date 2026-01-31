@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My First Website
-description: This is my first experience with HTML and CSS in one of my web development introduction classes. 
+description: This is my first introductory website using HTML and CSS in an introduction web development class. This project integrates simple use of CSS features and HTML properties.
 img: assets/img/9.jpg
 importance: 2
 category: work
