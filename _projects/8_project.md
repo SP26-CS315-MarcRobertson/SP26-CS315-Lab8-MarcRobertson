@@ -1,25 +1,14 @@
 ---
 layout: page
 title: My First Website
-description: This is my first introductory website using HTML and CSS in an introduction web development class. This project integrates simple use of CSS features and HTML properties.
+description: This is my first introductory website using HTML and CSS in an introduction web development class. This project integrates simple use of CSS features and HTML properties. This webpage was managed through commits in GitHub and lauched using GitHub pages.
 img: assets/img/9.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In this web project, it portrays my skill in HTML and CSS at the introductory level. I think it is important to look back at initial projects and see the progress you made where programming and styles are invovled. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +33,6 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
