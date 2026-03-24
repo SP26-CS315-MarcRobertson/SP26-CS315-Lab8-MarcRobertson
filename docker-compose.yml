@@ -1,24 +1,26 @@
-services :
+services:
+  # Production-style static serve (nginx + built _site)
+  portfolio:
+    build:
+      context: .
+      target: serve
+    ports:
+      - "4000:80"
+    restart: unless-stopped
 
-  # Production - style static serve
-  portfolio :
-    build :
-      context : .
-      target : serve
-    ports :
-      "4000:80"
-    restart : unless - stopped
-  # Development : live - reload with volume mount
-  dev :
-    image : ruby :3.3 - alpine
-    working_dir : /site
-    volumes :
-     -  .:/site
-    ports :
-     -  "4001:4000"
-    command : >
-      sh -c "apk add --no - cache build - base git nodejs npm &&
-            bundle install &&
-            bundle exec jekyll serve -- host 0.0.0.0 -- livereload "
-    profiles :
+  # Development: live reload with volume mount
+  dev:
+    image: ruby:3.3-alpine
+    working_dir: /site
+    volumes:
+      - ./Portfolio:/site
+    ports:
+      - "4001:4000"
+    command: >
+      sh -c "apk add --no-cache build-base git libxml2-dev libxslt-dev nodejs npm
+      imagemagick imagemagick-dev python3 py3-pip &&
+      pip3 install --break-system-packages nbconvert &&
+      bundle install &&
+      bundle exec jekyll serve --host 0.0.0.0 --livereload"
+    profiles:
       - dev
