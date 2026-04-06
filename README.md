@@ -15,8 +15,8 @@ Date Last Modified: 03/25/2026
 From the repository root:
 
 ```bash
-bundle install
-bundle exec jekyll serve
+docker compose build
+docker compose up
 ```
 
 Open:
